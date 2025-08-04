@@ -1,0 +1,2 @@
+git checkout -b main  # Create and switch to 'main' branch
+git push origin main  # Push 'main' to remote repo
